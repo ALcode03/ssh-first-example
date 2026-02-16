@@ -21,3 +21,14 @@ Software Developer specializing in full-stack web development withbstrong experi
 - Git & Github
 - Clean Code & SOLID Principles
 
+---
+
+
+#### Soft Skills
+- Analytical & Problem-Solving Mindset
+- Strong Communication Skills
+- Continuous Learning & Self-Driven
+- Attention to Detail
+- Mentorship & Teaching Ability
+- Team Collaboration
+- Adaptability & Growth-Oriented Thinking
