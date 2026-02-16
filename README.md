@@ -7,7 +7,7 @@
 **Brief:**
 Software Developer specializing in full-stack web development withbstrong experience in  JavaScript and Python. Skilled in building scable RESTful adn GraphQL APIs.
 
-<<<<<<< HEAD
+
 ---
 
 
@@ -20,6 +20,4 @@ Software Developer specializing in full-stack web development withbstrong experi
 - Authenticcation & Authorization (JWT)
 - Git & Github
 - Clean Code & SOLID Principles
-=======
----
->>>>>>> 1116c65953706e8a90003be2235a6b864593348c
+
